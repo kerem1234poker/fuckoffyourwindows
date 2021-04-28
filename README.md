@@ -1,2 +1,2 @@
 # fuckoffyourwindows
-fuck tools for windows
+fuck tools for windows install to fucktools
